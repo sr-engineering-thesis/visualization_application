@@ -1,0 +1,7 @@
+streamlit>=1.25
+torch>=2.0
+numpy>=1.23
+pandas>=1.5
+matplotlib>=3.6
+opencv-python-headless>=4.7
+scikit-image>=0.19

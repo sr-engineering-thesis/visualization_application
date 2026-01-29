@@ -39,4 +39,6 @@ Functionality and user interface is presented on selected screenshots.
 
 ## Running the Application
 To start the interactive application, run:
-```streamlit run app.py```
+```
+streamlit run app.py
+```
